@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @The-Fisherman
 - 👀 I’m interested in JavaScript and Python 
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me abpyth@gmail.com 
 
 <!---
