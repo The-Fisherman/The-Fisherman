@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Fisherman
 - 👀 I’m interested in JavaScript and Python 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Penetration Testing, Incident Response and Forensics
 - 📫 How to reach me ifiabram@gmail.com 
 
 <!---
